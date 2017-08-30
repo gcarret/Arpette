@@ -1,0 +1,948 @@
+EESchema Schematic File Version 2
+LIBS:Arpette-rescue
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:raspberrypi_hat
+LIBS:Arpette-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 6750 1750 0    60   Input ~ 0
+SSR2
+$Comp
+L R R?
+U 1 1 595CD6DE
+P 7150 1750
+F 0 "R?" V 7230 1750 50  0000 C CNN
+F 1 "670" V 7150 1750 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 7080 1750 50  0001 C CNN
+F 3 "" H 7150 1750 50  0000 C CNN
+	1    7150 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L BC237 Q?
+U 1 1 595CD6DF
+P 7700 1750
+F 0 "Q?" H 7900 1825 50  0000 L CNN
+F 1 "2N2222" H 7900 1750 50  0000 L CNN
+F 2 "TO_SOT_Packages_THT:TO-92_Molded_Narrow" H 8000 1950 50  0000 L CIN
+F 3 "" H 7700 1750 50  0000 L CNN
+	1    7700 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD6E0
+P 7800 2250
+F 0 "#PWR?" H 7800 2000 50  0001 C CNN
+F 1 "GND" H 7800 2100 50  0000 C CNN
+F 2 "" H 7800 2250 50  0000 C CNN
+F 3 "" H 7800 2250 50  0000 C CNN
+	1    7800 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED-RESCUE-Arpette D?
+U 1 1 595CD6E2
+P 7800 1250
+AR Path="/595CD6E2" Ref="D?"  Part="1" 
+AR Path="/595CC9DA/595CD6E2" Ref="D?"  Part="1" 
+F 0 "D?" H 7800 1350 50  0000 C CNN
+F 1 "LED" H 7800 1150 50  0000 C CNN
+F 2 "LEDs:LED-3MM" H 7800 1250 50  0001 C CNN
+F 3 "" H 7800 1250 50  0000 C CNN
+	1    7800 1250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 595CD6E3
+P 7800 900
+F 0 "R?" V 7880 900 50  0000 C CNN
+F 1 "220" V 7800 900 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 7730 900 50  0001 C CNN
+F 3 "" H 7800 900 50  0000 C CNN
+	1    7800 900 
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X02 P?
+U 1 1 595CD6E4
+P 8850 1050
+F 0 "P?" H 8850 1200 50  0000 C CNN
+F 1 "SSR 2" V 8950 1050 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 8850 1050 50  0001 C CNN
+F 3 "" H 8850 1050 50  0000 C CNN
+	1    8850 1050
+	1    0    0    -1  
+$EndComp
+Text GLabel 9000 3700 0    60   Input ~ 0
+SDA
+Text GLabel 9000 3450 0    60   Input ~ 0
+SCL
+$Comp
+L +3.3V #PWR?
+U 1 1 595CD6E6
+P 9850 2900
+F 0 "#PWR?" H 9850 2750 50  0001 C CNN
+F 1 "+3.3V" H 9850 3040 50  0000 C CNN
+F 2 "" H 9850 2900 50  0000 C CNN
+F 3 "" H 9850 2900 50  0000 C CNN
+	1    9850 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 595CD6E7
+P 9650 3100
+F 0 "R?" V 9730 3100 50  0000 C CNN
+F 1 "4,7k" V 9650 3100 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 9580 3100 50  0001 C CNN
+F 3 "" H 9650 3100 50  0000 C CNN
+	1    9650 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L R R?
+U 1 1 595CD6E8
+P 10050 3100
+F 0 "R?" V 10130 3100 50  0000 C CNN
+F 1 "4,7k" V 10050 3100 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 9980 3100 50  0001 C CNN
+F 3 "" H 10050 3100 50  0000 C CNN
+	1    10050 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L R R?
+U 1 1 595CD6E9
+P 10300 3450
+F 0 "R?" V 10380 3450 50  0000 C CNN
+F 1 "47" V 10300 3450 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 10230 3450 50  0001 C CNN
+F 3 "" H 10300 3450 50  0000 C CNN
+	1    10300 3450
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 595CD6EA
+P 10300 3700
+F 0 "R?" V 10380 3700 50  0000 C CNN
+F 1 "47" V 10300 3700 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 10230 3700 50  0001 C CNN
+F 3 "" H 10300 3700 50  0000 C CNN
+	1    10300 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L CONN_01X04 P?
+U 1 1 595CD6EB
+P 11000 3550
+F 0 "P?" H 11000 3800 50  0000 C CNN
+F 1 "i2c_ext" V 11100 3550 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04" H 11000 3550 50  0001 C CNN
+F 3 "" H 11000 3550 50  0000 C CNN
+	1    11000 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD6EC
+P 10600 3000
+F 0 "#PWR?" H 10600 2750 50  0001 C CNN
+F 1 "GND" H 10600 2850 50  0000 C CNN
+F 2 "" H 10600 3000 50  0000 C CNN
+F 3 "" H 10600 3000 50  0000 C CNN
+	1    10600 3000
+	-1   0    0    1   
+$EndComp
+Text GLabel 9200 5100 0    60   Input ~ 0
+GPIO
+$Comp
+L +5V #PWR?
+U 1 1 595CD6ED
+P 9900 4850
+F 0 "#PWR?" H 9900 4700 50  0001 C CNN
+F 1 "+5V" H 9900 4990 50  0000 C CNN
+F 2 "" H 9900 4850 50  0000 C CNN
+F 3 "" H 9900 4850 50  0000 C CNN
+	1    9900 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR?
+U 1 1 595CD6EE
+P 9500 4850
+F 0 "#PWR?" H 9500 4700 50  0001 C CNN
+F 1 "+3.3V" H 9500 4990 50  0000 C CNN
+F 2 "" H 9500 4850 50  0000 C CNN
+F 3 "" H 9500 4850 50  0000 C CNN
+	1    9500 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD6EF
+P 10300 5300
+F 0 "#PWR?" H 10300 5050 50  0001 C CNN
+F 1 "GND" H 10300 5150 50  0000 C CNN
+F 2 "" H 10300 5300 50  0000 C CNN
+F 3 "" H 10300 5300 50  0000 C CNN
+	1    10300 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X06 P?
+U 1 1 595CD6F0
+P 10950 5150
+F 0 "P?" H 10950 5400 50  0000 C CNN
+F 1 "Ext" V 11050 5150 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04" H 10950 5150 50  0001 C CNN
+F 3 "" H 10950 5150 50  0000 C CNN
+	1    10950 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR?
+U 1 1 595CD6F3
+P 700 700
+F 0 "#PWR?" H 700 550 50  0001 C CNN
+F 1 "+3.3V" H 700 840 50  0000 C CNN
+F 2 "" H 700 700 50  0000 C CNN
+F 3 "" H 700 700 50  0000 C CNN
+	1    700  700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR?
+U 1 1 595CD6F4
+P 950 700
+F 0 "#PWR?" H 950 550 50  0001 C CNN
+F 1 "+5V" H 950 840 50  0000 C CNN
+F 2 "" H 950 700 50  0000 C CNN
+F 3 "" H 950 700 50  0000 C CNN
+	1    950  700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD6F5
+P 800 1050
+F 0 "#PWR?" H 800 800 50  0001 C CNN
+F 1 "GND" H 800 900 50  0000 C CNN
+F 2 "" H 800 1050 50  0000 C CNN
+F 3 "" H 800 1050 50  0000 C CNN
+	1    800  1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 595CD6F6
+P 700 900
+F 0 "C?" H 725 1000 50  0000 L CNN
+F 1 "1u" H 725 800 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Rect_L7_W2.5_P5" H 738 750 50  0001 C CNN
+F 3 "" H 700 900 50  0000 C CNN
+	1    700  900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 595CD6F7
+P 950 900
+F 0 "C?" H 975 1000 50  0000 L CNN
+F 1 "1u" H 975 800 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Rect_L7_W2.5_P5" H 988 750 50  0001 C CNN
+F 3 "" H 950 900 50  0000 C CNN
+	1    950  900 
+	1    0    0    -1  
+$EndComp
+Text GLabel 6600 5450 0    60   Input ~ 0
+PWM
+$Comp
+L R R?
+U 1 1 595CD6F8
+P 6950 5450
+F 0 "R?" V 7030 5450 50  0000 C CNN
+F 1 "10k" V 6950 5450 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 6880 5450 50  0001 C CNN
+F 3 "" H 6950 5450 50  0000 C CNN
+	1    6950 5450
+	0    1    1    0   
+$EndComp
+$Comp
+L C C?
+U 1 1 595CD6F9
+P 7400 5750
+F 0 "C?" H 7425 5850 50  0000 L CNN
+F 1 "1u" H 7425 5650 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Rect_L7_W2.5_P5" H 7438 5600 50  0001 C CNN
+F 3 "" H 7400 5750 50  0000 C CNN
+	1    7400 5750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCP6001-RESCUE-Arpette U?
+U 1 1 595CD6FA
+P 8200 5550
+AR Path="/595CD6FA" Ref="U?"  Part="1" 
+AR Path="/595CC9DA/595CD6FA" Ref="U?"  Part="1" 
+F 0 "U?" H 8250 5750 50  0000 C CNN
+F 1 "TL971" H 8500 5750 50  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-5" H 8150 5650 50  0001 C CNN
+F 3 "" H 8250 5750 50  0000 C CNN
+	1    8200 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD6FB
+P 8100 5950
+F 0 "#PWR?" H 8100 5700 50  0001 C CNN
+F 1 "GND" H 8100 5800 50  0000 C CNN
+F 2 "" H 8100 5950 50  0000 C CNN
+F 3 "" H 8100 5950 50  0000 C CNN
+	1    8100 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L +12V #PWR?
+U 1 1 595CD6FC
+P 8100 5000
+F 0 "#PWR?" H 8100 4850 50  0001 C CNN
+F 1 "+12V" H 8100 5140 50  0000 C CNN
+F 2 "" H 8100 5000 50  0000 C CNN
+F 3 "" H 8100 5000 50  0000 C CNN
+	1    8100 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 595CD6FD
+P 9100 5850
+F 0 "R?" V 9180 5850 50  0000 C CNN
+F 1 "10k" V 9100 5850 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 9030 5850 50  0001 C CNN
+F 3 "" H 9100 5850 50  0000 C CNN
+	1    9100 5850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 595CD6FE
+P 8450 6000
+F 0 "R?" V 8530 6000 50  0000 C CNN
+F 1 "10k" V 8450 6000 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 8380 6000 50  0001 C CNN
+F 3 "" H 8450 6000 50  0000 C CNN
+	1    8450 6000
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD6FF
+P 8450 6150
+F 0 "#PWR?" H 8450 5900 50  0001 C CNN
+F 1 "GND" H 8450 6000 50  0000 C CNN
+F 2 "" H 8450 6150 50  0000 C CNN
+F 3 "" H 8450 6150 50  0000 C CNN
+	1    8450 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD700
+P 7400 6300
+F 0 "#PWR?" H 7400 6050 50  0001 C CNN
+F 1 "GND" H 7400 6150 50  0000 C CNN
+F 2 "" H 7400 6300 50  0000 C CNN
+F 3 "" H 7400 6300 50  0000 C CNN
+	1    7400 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L +12V #PWR?
+U 1 1 595CD701
+P 2200 5500
+F 0 "#PWR?" H 2200 5350 50  0001 C CNN
+F 1 "+12V" H 2200 5640 50  0000 C CNN
+F 2 "" H 2200 5500 50  0000 C CNN
+F 3 "" H 2200 5500 50  0000 C CNN
+	1    2200 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L 7805 U?
+U 1 1 595CD702
+P 3000 5550
+F 0 "U?" H 3150 5354 50  0000 C CNN
+F 1 "7805" H 3000 5750 50  0000 C CNN
+F 2 "TO_SOT_Packages_THT:TO-220_Neutral123_Horizontal" H 3000 5550 50  0001 C CNN
+F 3 "" H 3000 5550 50  0000 C CNN
+	1    3000 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD703
+P 3000 6100
+F 0 "#PWR?" H 3000 5850 50  0001 C CNN
+F 1 "GND" H 3000 5950 50  0000 C CNN
+F 2 "" H 3000 6100 50  0000 C CNN
+F 3 "" H 3000 6100 50  0000 C CNN
+	1    3000 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CP C?
+U 1 1 595CD704
+P 2300 5650
+F 0 "C?" H 2325 5750 50  0000 L CNN
+F 1 "22u" H 2325 5550 50  0000 L CNN
+F 2 "Discret:C1V8" H 2338 5500 50  0001 C CNN
+F 3 "" H 2300 5650 50  0000 C CNN
+	1    2300 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 595CD705
+P 2550 5650
+F 0 "C?" H 2575 5750 50  0000 L CNN
+F 1 "1u" H 2575 5550 50  0000 L CNN
+F 2 "Capacitors_SMD:C_1210_HandSoldering" H 2588 5500 50  0001 C CNN
+F 3 "" H 2550 5650 50  0000 C CNN
+	1    2550 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 595CD706
+P 3800 5650
+F 0 "C?" H 3825 5750 50  0000 L CNN
+F 1 "0,47u" H 3825 5550 50  0000 L CNN
+F 2 "Capacitors_SMD:C_1210_HandSoldering" H 3838 5500 50  0001 C CNN
+F 3 "" H 3800 5650 50  0000 C CNN
+	1    3800 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR?
+U 1 1 595CD707
+P 4300 5500
+F 0 "#PWR?" H 4300 5350 50  0001 C CNN
+F 1 "+5V" H 4300 5640 50  0000 C CNN
+F 2 "" H 4300 5500 50  0000 C CNN
+F 3 "" H 4300 5500 50  0000 C CNN
+	1    4300 5500
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD708
+P 2450 6100
+F 0 "#PWR?" H 2450 5850 50  0001 C CNN
+F 1 "GND" H 2450 5950 50  0000 C CNN
+F 2 "" H 2450 6100 50  0000 C CNN
+F 3 "" H 2450 6100 50  0000 C CNN
+	1    2450 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD709
+P 3800 6100
+F 0 "#PWR?" H 3800 5850 50  0001 C CNN
+F 1 "GND" H 3800 5950 50  0000 C CNN
+F 2 "" H 3800 6100 50  0000 C CNN
+F 3 "" H 3800 6100 50  0000 C CNN
+	1    3800 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 P?
+U 1 1 595CD70A
+P 1100 5550
+F 0 "P?" H 1100 5700 50  0000 C CNN
+F 1 "Power" V 1200 5550 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 1100 5550 50  0001 C CNN
+F 3 "" H 1100 5550 50  0000 C CNN
+	1    1100 5550
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 595CD70B
+P 1500 5800
+F 0 "#PWR?" H 1500 5550 50  0001 C CNN
+F 1 "GND" H 1500 5650 50  0000 C CNN
+F 2 "" H 1500 5800 50  0000 C CNN
+F 3 "" H 1500 5800 50  0000 C CNN
+	1    1500 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 595CD70D
+P 9250 5700
+F 0 "R?" V 9330 5700 50  0000 C CNN
+F 1 "10k" V 9250 5700 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 9180 5700 50  0001 C CNN
+F 3 "" H 9250 5700 50  0000 C CNN
+	1    9250 5700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7000 1750 6750 1750
+Wire Wire Line
+	7300 1750 7500 1750
+Wire Wire Line
+	7800 1950 7800 2250
+Wire Wire Line
+	7800 1550 7800 1450
+Wire Wire Line
+	7800 700  7800 750 
+Wire Wire Line
+	8650 1000 8350 1000
+Wire Wire Line
+	8350 1000 8350 750 
+Wire Wire Line
+	8350 750  7800 750 
+Wire Wire Line
+	8650 1100 8350 1100
+Wire Wire Line
+	8350 1100 8350 1500
+Wire Wire Line
+	8350 1500 7800 1500
+Connection ~ 7800 1500
+Wire Wire Line
+	9000 3450 10150 3450
+Wire Wire Line
+	9650 3450 9650 3250
+Wire Wire Line
+	9650 2950 10400 2950
+Wire Wire Line
+	9850 2900 9850 2950
+Connection ~ 9850 2950
+Wire Wire Line
+	9000 3700 10150 3700
+Wire Wire Line
+	10050 3700 10050 3250
+Wire Wire Line
+	10600 3000 10600 3400
+Wire Wire Line
+	10600 3400 10800 3400
+Wire Wire Line
+	10400 2950 10400 3300
+Wire Wire Line
+	10400 3300 10550 3300
+Wire Wire Line
+	10550 3300 10550 3500
+Wire Wire Line
+	10550 3500 10800 3500
+Connection ~ 10050 2950
+Wire Wire Line
+	10450 3450 10450 3600
+Wire Wire Line
+	10450 3600 10800 3600
+Connection ~ 9650 3450
+Connection ~ 10050 3700
+Wire Wire Line
+	10450 3700 10800 3700
+Wire Wire Line
+	10750 4900 9900 4900
+Wire Wire Line
+	9900 4900 9900 4850
+Wire Wire Line
+	9500 4850 9500 5000
+Wire Wire Line
+	9500 5000 10750 5000
+Wire Wire Line
+	9200 5100 10750 5100
+Wire Wire Line
+	10750 5200 10300 5200
+Wire Wire Line
+	10300 5200 10300 5300
+Wire Wire Line
+	950  750  950  700 
+Wire Wire Line
+	700  750  700  700 
+Wire Wire Line
+	700  1050 950  1050
+Connection ~ 800  1050
+Wire Wire Line
+	6800 5450 6600 5450
+Wire Wire Line
+	7100 5450 7900 5450
+Wire Wire Line
+	7400 5450 7400 5600
+Connection ~ 7400 5450
+Wire Wire Line
+	8100 5850 8100 5950
+Wire Wire Line
+	7900 5650 7900 6400
+Wire Wire Line
+	7400 6300 7400 5900
+Wire Wire Line
+	8100 5250 8100 5000
+Wire Wire Line
+	10750 5300 10550 5300
+Wire Wire Line
+	10550 5300 10550 5200
+Connection ~ 10550 5200
+Wire Wire Line
+	2200 5500 2600 5500
+Connection ~ 2300 5500
+Connection ~ 2550 5500
+Wire Wire Line
+	2300 5800 2550 5800
+Wire Wire Line
+	2450 6100 2450 5800
+Connection ~ 2450 5800
+Wire Wire Line
+	3000 5800 3000 6100
+Wire Wire Line
+	3400 5500 4300 5500
+Connection ~ 3800 5500
+Wire Wire Line
+	3800 5800 3800 6100
+Wire Wire Line
+	1300 5500 1550 5500
+Wire Wire Line
+	1300 5600 1500 5600
+Wire Wire Line
+	1500 5600 1500 5800
+$Comp
+L POT-RESCUE-Arpette RV?
+U 1 1 595CD70E
+P 8700 5850
+AR Path="/595CD70E" Ref="RV?"  Part="1" 
+AR Path="/595CC9DA/595CD70E" Ref="RV?"  Part="1" 
+F 0 "RV?" H 8700 5750 50  0000 C CNN
+F 1 "1k" H 8700 5850 50  0000 C CNN
+F 2 "Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp" H 8700 5850 50  0001 C CNN
+F 3 "" H 8700 5850 50  0000 C CNN
+	1    8700 5850
+	-1   0    0    1   
+$EndComp
+Connection ~ 9250 5550
+Wire Wire Line
+	7900 6400 8700 6400
+Wire Wire Line
+	8700 6400 8700 6000
+Wire Wire Line
+	10550 5550 8500 5550
+Entry Wire Line
+	1200 5500 1300 5600
+Text GLabel 8850 1750 0    60   Input ~ 0
+SSR3
+$Comp
+L R R?
+U 1 1 59A73F60
+P 9250 1750
+F 0 "R?" V 9330 1750 50  0000 C CNN
+F 1 "670" V 9250 1750 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 9180 1750 50  0001 C CNN
+F 3 "" H 9250 1750 50  0000 C CNN
+	1    9250 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L BC237 Q?
+U 1 1 59A73F67
+P 9800 1750
+F 0 "Q?" H 10000 1825 50  0000 L CNN
+F 1 "2N2222" H 10000 1750 50  0000 L CNN
+F 2 "TO_SOT_Packages_THT:TO-92_Molded_Narrow" H 10000 1675 50  0000 L CIN
+F 3 "" H 9800 1750 50  0000 L CNN
+	1    9800 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 59A73F6E
+P 9900 2250
+F 0 "#PWR?" H 9900 2000 50  0001 C CNN
+F 1 "GND" H 9900 2100 50  0000 C CNN
+F 2 "" H 9900 2250 50  0000 C CNN
+F 3 "" H 9900 2250 50  0000 C CNN
+	1    9900 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED-RESCUE-Arpette D?
+U 1 1 59A73F7A
+P 9900 1250
+F 0 "D?" H 9900 1350 50  0000 C CNN
+F 1 "LED" H 9900 1150 50  0000 C CNN
+F 2 "LEDs:LED-3MM" H 9900 1250 50  0001 C CNN
+F 3 "" H 9900 1250 50  0000 C CNN
+	1    9900 1250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59A73F81
+P 9900 900
+F 0 "R?" V 9980 900 50  0000 C CNN
+F 1 "220" V 9900 900 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 9830 900 50  0001 C CNN
+F 3 "" H 9900 900 50  0000 C CNN
+	1    9900 900 
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X02 P?
+U 1 1 59A73F88
+P 10950 1050
+F 0 "P?" H 10950 1200 50  0000 C CNN
+F 1 "SSR 3" V 11050 1050 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 10950 1050 50  0001 C CNN
+F 3 "" H 10950 1050 50  0000 C CNN
+	1    10950 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9100 1750 8850 1750
+Wire Wire Line
+	9400 1750 9600 1750
+Wire Wire Line
+	9900 1950 9900 2250
+Wire Wire Line
+	9900 1550 9900 1450
+Wire Wire Line
+	9900 700  9900 750 
+Wire Wire Line
+	10750 1000 10450 1000
+Wire Wire Line
+	10450 1000 10450 750 
+Wire Wire Line
+	10450 750  9900 750 
+Wire Wire Line
+	10750 1100 10450 1100
+Wire Wire Line
+	10450 1100 10450 1500
+Wire Wire Line
+	10450 1500 9900 1500
+Connection ~ 9900 1500
+Connection ~ 10250 750 
+Connection ~ 10250 1500
+Connection ~ 8150 750 
+Connection ~ 8150 1500
+$Comp
+L D_ALT D?
+U 1 1 59A74A6F
+P 8150 1100
+F 0 "D?" H 8150 1200 50  0000 C CNN
+F 1 "D_ALT" H 8150 1000 50  0000 C CNN
+F 2 "" H 8150 1100 50  0001 C CNN
+F 3 "" H 8150 1100 50  0001 C CNN
+	1    8150 1100
+	0    1    1    0   
+$EndComp
+$Comp
+L D_ALT D?
+U 1 1 59A74C89
+P 10250 1100
+F 0 "D?" H 10250 1200 50  0000 C CNN
+F 1 "D_ALT" H 10250 1000 50  0000 C CNN
+F 2 "" H 10250 1100 50  0001 C CNN
+F 3 "" H 10250 1100 50  0001 C CNN
+	1    10250 1100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10250 950  10250 750 
+Wire Wire Line
+	10250 1250 10250 1500
+Wire Wire Line
+	8150 750  8150 950 
+Wire Wire Line
+	8150 1250 8150 1500
+Text GLabel 4850 1750 0    60   Input ~ 0
+SSR1
+$Comp
+L R R?
+U 1 1 59A75386
+P 5250 1750
+F 0 "R?" V 5330 1750 50  0000 C CNN
+F 1 "670" V 5250 1750 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 5180 1750 50  0001 C CNN
+F 3 "" H 5250 1750 50  0000 C CNN
+	1    5250 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L BC237 Q?
+U 1 1 59A7538D
+P 5800 1750
+F 0 "Q?" H 6000 1825 50  0000 L CNN
+F 1 "2N2222" H 6000 1750 50  0000 L CNN
+F 2 "TO_SOT_Packages_THT:TO-92_Molded_Narrow" H 6000 1950 50  0000 L CIN
+F 3 "" H 5800 1750 50  0000 L CNN
+	1    5800 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 59A75394
+P 5900 2250
+F 0 "#PWR?" H 5900 2000 50  0001 C CNN
+F 1 "GND" H 5900 2100 50  0000 C CNN
+F 2 "" H 5900 2250 50  0000 C CNN
+F 3 "" H 5900 2250 50  0000 C CNN
+	1    5900 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED-RESCUE-Arpette D?
+U 1 1 59A753A0
+P 5900 1250
+F 0 "D?" H 5900 1350 50  0000 C CNN
+F 1 "LED" H 5900 1150 50  0000 C CNN
+F 2 "LEDs:LED-3MM" H 5900 1250 50  0001 C CNN
+F 3 "" H 5900 1250 50  0000 C CNN
+	1    5900 1250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59A753A7
+P 5900 900
+F 0 "R?" V 5980 900 50  0000 C CNN
+F 1 "220" V 5900 900 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 5830 900 50  0001 C CNN
+F 3 "" H 5900 900 50  0000 C CNN
+	1    5900 900 
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X02 P?
+U 1 1 59A753AE
+P 6950 1050
+F 0 "P?" H 6950 1200 50  0000 C CNN
+F 1 "SSR 1" V 7050 1050 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 6950 1050 50  0001 C CNN
+F 3 "" H 6950 1050 50  0000 C CNN
+	1    6950 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR?
+U 1 1 59A753B5
+P 5800 2850
+F 0 "#PWR?" H 5800 2700 50  0001 C CNN
+F 1 "+3.3V" H 5800 2990 50  0000 C CNN
+F 2 "" H 5800 2850 50  0000 C CNN
+F 3 "" H 5800 2850 50  0000 C CNN
+	1    5800 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 1750 4850 1750
+Wire Wire Line
+	5400 1750 5600 1750
+Wire Wire Line
+	5900 1950 5900 2250
+Wire Wire Line
+	5900 1550 5900 1450
+Wire Wire Line
+	5900 700  5900 750 
+Wire Wire Line
+	6750 1000 6450 1000
+Wire Wire Line
+	6450 1000 6450 750 
+Wire Wire Line
+	6450 750  5900 750 
+Wire Wire Line
+	6750 1100 6450 1100
+Wire Wire Line
+	6450 1100 6450 1500
+Wire Wire Line
+	6450 1500 5900 1500
+Connection ~ 5900 1500
+$Comp
+L +12V #PWR?
+U 1 1 59A75702
+P 5900 700
+F 0 "#PWR?" H 5900 550 50  0001 C CNN
+F 1 "+12V" H 5900 840 50  0000 C CNN
+F 2 "" H 5900 700 50  0001 C CNN
+F 3 "" H 5900 700 50  0001 C CNN
+	1    5900 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L +12V #PWR?
+U 1 1 59A75760
+P 7800 700
+F 0 "#PWR?" H 7800 550 50  0001 C CNN
+F 1 "+12V" H 7800 840 50  0000 C CNN
+F 2 "" H 7800 700 50  0001 C CNN
+F 3 "" H 7800 700 50  0001 C CNN
+	1    7800 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L +12V #PWR?
+U 1 1 59A757BE
+P 9900 700
+F 0 "#PWR?" H 9900 550 50  0001 C CNN
+F 1 "+12V" H 9900 840 50  0000 C CNN
+F 2 "" H 9900 700 50  0001 C CNN
+F 3 "" H 9900 700 50  0001 C CNN
+	1    9900 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L TPS54302 U?
+U 1 1 59A7BEB1
+P 3000 4850
+F 0 "U?" H 3000 4650 60  0000 C CNN
+F 1 "TPS54302" H 3000 4850 60  0000 C CNN
+F 2 "" H 3100 4850 60  0001 C CNN
+F 3 "" H 3100 4850 60  0001 C CNN
+	1    3000 4850
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
