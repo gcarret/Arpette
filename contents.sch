@@ -858,7 +858,7 @@ F 3 "" H 7750 2350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 8450 1250 2    60   Input ~ 0
-5V
+P5V
 $Comp
 L +VDC #PWR?
 U 1 1 59AF2A81
@@ -957,17 +957,6 @@ F 2 "" H 800 700 50  0001 C CNN
 F 3 "" H 800 700 50  0001 C CNN
 	1    800  700 
 	0    -1   -1   0   
-$EndComp
-$Comp
-L +5V #PWR?
-U 1 1 59AF6636
-P 8150 1100
-F 0 "#PWR?" H 8150 950 50  0001 C CNN
-F 1 "+5V" H 8150 1240 50  0000 C CNN
-F 2 "" H 8150 1100 50  0001 C CNN
-F 3 "" H 8150 1100 50  0001 C CNN
-	1    8150 1100
-	1    0    0    -1  
 $EndComp
 $Comp
 L CP C?
@@ -1236,9 +1225,6 @@ Wire Wire Line
 	950  700  800  700 
 Wire Wire Line
 	1550 700  1700 700 
-Wire Wire Line
-	8150 1100 8150 1400
-Connection ~ 8150 1250
 $Comp
 L GND #PWR?
 U 1 1 59AF6B6D
@@ -1254,4 +1240,7 @@ Wire Wire Line
 	8150 1700 8150 2350
 Wire Wire Line
 	2800 1650 2450 1650
+Wire Wire Line
+	8150 1400 8150 1250
+Connection ~ 8150 1250
 $EndSCHEMATC
