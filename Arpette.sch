@@ -509,10 +509,8 @@ Text Label 800  3450 0    60   ~ 0
 GND
 Wire Wire Line
 	2000 3450 800  3450
-Text Label 800  2650 0    60   ~ 0
+Text Label 800  2500 0    60   ~ 0
 GND
-Wire Wire Line
-	2000 2650 800  2650
 Text Label 800  2250 0    60   ~ 0
 P3V3_HAT
 Wire Wire Line
@@ -629,14 +627,10 @@ Wire Wire Line
 	2000 2450 1550 2450
 Wire Wire Line
 	1250 2350 2000 2350
-Text GLabel 3850 3300 2    60   Input ~ 0
+Text GLabel 4000 3350 2    60   Input ~ 0
 SPI_CS
 Wire Wire Line
-	3850 3300 3400 3300
-Wire Wire Line
-	3400 3300 3400 3350
-Wire Wire Line
-	3400 3350 3200 3350
+	3200 3350 4000 3350
 $Sheet
 S 10850 5500 3850 2200
 U 5960E58C
@@ -659,4 +653,55 @@ Text GLabel 5300 2400 0    60   Input ~ 0
 P5V
 Text GLabel 7150 2400 2    60   Input ~ 0
 P5V_HAT
+Text GLabel 1050 2650 0    60   Input ~ 0
+ADC_/DRdy
+Wire Wire Line
+	2000 2650 1300 2650
+Wire Wire Line
+	1300 2650 1300 2550
+Wire Wire Line
+	1300 2550 800  2550
+Wire Wire Line
+	800  2550 800  2500
+Wire Wire Line
+	1050 2650 1250 2650
+Wire Wire Line
+	1250 2650 1250 2750
+Wire Wire Line
+	1250 2750 2000 2750
+Text GLabel 1050 2800 0    60   Input ~ 0
+ADC_Start
+Text GLabel 1600 2950 0    60   Input ~ 0
+ADC_/Reset
+Wire Wire Line
+	2000 2950 1600 2950
+Wire Wire Line
+	2000 2850 1200 2850
+Wire Wire Line
+	1200 2850 1200 2800
+Wire Wire Line
+	1200 2800 1050 2800
+Text GLabel 3500 3250 2    60   Input ~ 0
+BUZ
+Wire Wire Line
+	3500 3250 3200 3250
+Text GLabel 3500 3750 2    60   Input ~ 0
+PWM1
+Wire Wire Line
+	3200 3750 3500 3750
+Text GLabel 1600 3650 0    60   Input ~ 0
+1Wire
+Wire Wire Line
+	1600 3650 2000 3650
+Text GLabel 1600 3850 0    60   Input ~ 0
+PWM2
+NoConn ~ 3200 3450
+NoConn ~ 3200 2650
+NoConn ~ 3200 2550
+Text GLabel 1600 4050 0    60   Input ~ 0
+GPIO
+Wire Wire Line
+	1600 4050 2000 4050
+Wire Wire Line
+	1600 3850 2000 3850
 $EndSCHEMATC
