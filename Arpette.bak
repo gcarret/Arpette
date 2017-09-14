@@ -138,7 +138,7 @@ P3V3
 Text Label 5250 4700 0    60   ~ 0
 P5V
 Wire Wire Line
-	5250 4600 5850 4600
+	5050 4600 5850 4600
 Wire Wire Line
 	5250 4700 5850 4700
 Text Label 6950 4600 2    60   ~ 0
@@ -651,8 +651,6 @@ Wire Wire Line
 	3850 3050 3200 3050
 Text GLabel 5300 2400 0    60   Input ~ 0
 P5V
-Text GLabel 7150 2400 2    60   Input ~ 0
-P5V_HAT
 Text GLabel 1050 2650 0    60   Input ~ 0
 ADC_/DRdy
 Wire Wire Line
@@ -704,4 +702,24 @@ Wire Wire Line
 	1600 4050 2000 4050
 Wire Wire Line
 	1600 3850 2000 3850
+NoConn ~ 3200 4150
+NoConn ~ 3200 4050
+NoConn ~ 3200 3950
+NoConn ~ 2000 2550
+NoConn ~ 2000 3050
+NoConn ~ 2000 3750
+NoConn ~ 2000 3950
+$Comp
+L +3.3V #PWR06
+U 1 1 59BAA317
+P 5050 4500
+F 0 "#PWR06" H 5050 4350 50  0001 C CNN
+F 1 "+3.3V" H 5050 4640 50  0000 C CNN
+F 2 "" H 5050 4500 50  0001 C CNN
+F 3 "" H 5050 4500 50  0001 C CNN
+	1    5050 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 4600 5050 4500
 $EndSCHEMATC
