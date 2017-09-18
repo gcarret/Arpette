@@ -115,7 +115,7 @@ U 1 1 58DFC771
 P 2600 2250
 F 0 "J2" H 2950 2350 50  0000 C CNN
 F 1 "40HAT" H 2300 2350 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x20" H 2600 2450 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm" H 2600 2450 50  0000 C CNN
 F 3 "" H 1900 2250 50  0000 C CNN
 	1    2600 2250
 	1    0    0    -1  
@@ -128,7 +128,7 @@ U 1 1 58E13683
 P 6100 4650
 F 0 "J3" H 6100 4800 50  0000 C CNN
 F 1 "CONN_02X02" H 6100 4500 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x02" H 6100 3450 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x02_Pitch1.27mm" H 6100 3450 50  0001 C CNN
 F 3 "" H 6100 3450 50  0000 C CNN
 	1    6100 4650
 	1    0    0    -1  
@@ -361,7 +361,7 @@ U 1 1 58E18D32
 P 750 6050
 F 0 "J1" H 750 6200 50  0000 C CNN
 F 1 "CONN_01X02" V 850 6050 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 750 6050 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02_Pitch1.27mm" H 750 6050 50  0001 C CNN
 F 3 "" H 750 6050 50  0000 C CNN
 	1    750  6050
 	-1   0    0    1   

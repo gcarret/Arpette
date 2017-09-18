@@ -1,0 +1,1335 @@
+Info: Lecture Netliste <C:\Users\gcarret\Documents\CAD\Arpette\Arpette.net>
+
+Info: Utilisation des références pour associer composants et empreintes.
+
+Erreur: Composant RV1: empreinte Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp non trouvé dans les librairies d'empreintes.
+
+Erreur: Composant J3: empreinte Pin_Header_Straight_2x02 non trouvé dans les librairies d'empreintes.
+
+Erreur: Composant J1: empreinte Pin_Header_Straight_1x02 non trouvé dans les librairies d'empreintes.
+
+Info: Vérification du composant de la netliste "C1:/595CC9DA/59A94127:Capacitors_SMD:CP_Elec_10x10.5".
+
+Ajout du nouveau composant "C1:/595CC9DA/59A94127" empreinte "Capacitors_SMD:CP_Elec_10x10.5".
+
+Changement composant "C1:/595CC9DA/59A94127" pin "1"  net de "" en "+VDC".
+
+Changement composant "C1:/595CC9DA/59A94127" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C2:/595CC9DA/59A94628:Capacitors_SMD:C_1206_HandSoldering".
+
+Ajout du nouveau composant "C2:/595CC9DA/59A94628" empreinte "Capacitors_SMD:C_1206_HandSoldering".
+
+Changement composant "C2:/595CC9DA/59A94628" pin "1"  net de "" en "+VDC".
+
+Changement composant "C2:/595CC9DA/59A94628" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C3:/595CC9DA/59A94B39:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C3:/595CC9DA/59A94B39" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C3:/595CC9DA/59A94B39" pin "1"  net de "" en "+VDC".
+
+Changement composant "C3:/595CC9DA/59A94B39" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C4:/595CC9DA/59AEAEFB:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C4:/595CC9DA/59AEAEFB" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C4:/595CC9DA/59AEAEFB" pin "1"  net de "" en "Net-(C4-Pad1)".
+
+Changement composant "C4:/595CC9DA/59AEAEFB" pin "2"  net de "" en "Net-(C4-Pad2)".
+
+Info: Vérification du composant de la netliste "C5:/595CC9DA/59AEB2D9:Capacitors_SMD:C_1206_HandSoldering".
+
+Ajout du nouveau composant "C5:/595CC9DA/59AEB2D9" empreinte "Capacitors_SMD:C_1206_HandSoldering".
+
+Changement composant "C5:/595CC9DA/59AEB2D9" pin "1"  net de "" en "P5V".
+
+Changement composant "C5:/595CC9DA/59AEB2D9" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C6:/595CC9DA/59AEB3A9:Capacitors_SMD:C_1206_HandSoldering".
+
+Ajout du nouveau composant "C6:/595CC9DA/59AEB3A9" empreinte "Capacitors_SMD:C_1206_HandSoldering".
+
+Changement composant "C6:/595CC9DA/59AEB3A9" pin "1"  net de "" en "P5V".
+
+Changement composant "C6:/595CC9DA/59AEB3A9" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C7:/595CC9DA/59AEC3BB:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C7:/595CC9DA/59AEC3BB" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C7:/595CC9DA/59AEC3BB" pin "1"  net de "" en "Net-(C7-Pad1)".
+
+Changement composant "C7:/595CC9DA/59AEC3BB" pin "2"  net de "" en "Net-(C7-Pad2)".
+
+Info: Vérification du composant de la netliste "C8:/595CC9DA/59AF66DA:Capacitors_SMD:CP_Elec_10x10.5".
+
+Ajout du nouveau composant "C8:/595CC9DA/59AF66DA" empreinte "Capacitors_SMD:CP_Elec_10x10.5".
+
+Changement composant "C8:/595CC9DA/59AF66DA" pin "1"  net de "" en "P5V".
+
+Changement composant "C8:/595CC9DA/59AF66DA" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C9:/595CC9DA/59B8DAD2:Capacitors_SMD:CP_Elec_5x5.3".
+
+Ajout du nouveau composant "C9:/595CC9DA/59B8DAD2" empreinte "Capacitors_SMD:CP_Elec_5x5.3".
+
+Changement composant "C9:/595CC9DA/59B8DAD2" pin "1"  net de "" en "P5V".
+
+Changement composant "C9:/595CC9DA/59B8DAD2" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C10:/595CC9DA/595CD6F9:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C10:/595CC9DA/595CD6F9" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C10:/595CC9DA/595CD6F9" pin "1"  net de "" en "Net-(C10-Pad1)".
+
+Changement composant "C10:/595CC9DA/595CD6F9" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C11:/595CC9DA/59B8DA06:Capacitors_SMD:CP_Elec_6.3x7.7".
+
+Ajout du nouveau composant "C11:/595CC9DA/59B8DA06" empreinte "Capacitors_SMD:CP_Elec_6.3x7.7".
+
+Changement composant "C11:/595CC9DA/59B8DA06" pin "1"  net de "" en "+3V3".
+
+Changement composant "C11:/595CC9DA/59B8DA06" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C12:/595CC9DA/59BA790E:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C12:/595CC9DA/59BA790E" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C12:/595CC9DA/59BA790E" pin "1"  net de "" en "+3V3".
+
+Changement composant "C12:/595CC9DA/59BA790E" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C13:/595CC9DA/595CD6F6:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C13:/595CC9DA/595CD6F6" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C13:/595CC9DA/595CD6F6" pin "1"  net de "" en "+3V3".
+
+Changement composant "C13:/595CC9DA/595CD6F6" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C14:/595CC9DA/595CD6F7:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C14:/595CC9DA/595CD6F7" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C14:/595CC9DA/595CD6F7" pin "1"  net de "" en "P5V".
+
+Changement composant "C14:/595CC9DA/595CD6F7" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C15:/5960E58C/59610011:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C15:/5960E58C/59610011" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C15:/5960E58C/59610011" pin "1"  net de "" en "Iexc2".
+
+Changement composant "C15:/5960E58C/59610011" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C16:/5960E58C/59B835F0:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C16:/5960E58C/59B835F0" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C16:/5960E58C/59B835F0" pin "1"  net de "" en "Net-(C16-Pad1)".
+
+Changement composant "C16:/5960E58C/59B835F0" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C17:/5960E58C/59B830EF:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C17:/5960E58C/59B830EF" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C17:/5960E58C/59B830EF" pin "1"  net de "" en "Net-(C17-Pad1)".
+
+Changement composant "C17:/5960E58C/59B830EF" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C18:/5960E58C/59B837CD:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C18:/5960E58C/59B837CD" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C18:/5960E58C/59B837CD" pin "1"  net de "" en "Net-(C18-Pad1)".
+
+Changement composant "C18:/5960E58C/59B837CD" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C19:/5960E58C/59B84957:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C19:/5960E58C/59B84957" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C19:/5960E58C/59B84957" pin "1"  net de "" en "GND".
+
+Changement composant "C19:/5960E58C/59B84957" pin "2"  net de "" en "Net-(C19-Pad2)".
+
+Info: Vérification du composant de la netliste "C20:/5960E58C/59B84567:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C20:/5960E58C/59B84567" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C20:/5960E58C/59B84567" pin "1"  net de "" en "GND".
+
+Changement composant "C20:/5960E58C/59B84567" pin "2"  net de "" en "Iexc1".
+
+Info: Vérification du composant de la netliste "C21:/5960E58C/59B83C58:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C21:/5960E58C/59B83C58" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C21:/5960E58C/59B83C58" pin "1"  net de "" en "GND".
+
+Changement composant "C21:/5960E58C/59B83C58" pin "2"  net de "" en "Net-(C21-Pad2)".
+
+Info: Vérification du composant de la netliste "C22:/5960E58C/59B84AB7:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C22:/5960E58C/59B84AB7" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C22:/5960E58C/59B84AB7" pin "1"  net de "" en "GND".
+
+Changement composant "C22:/5960E58C/59B84AB7" pin "2"  net de "" en "Net-(C22-Pad2)".
+
+Info: Vérification du composant de la netliste "C23:/5960E58C/59B830DA:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C23:/5960E58C/59B830DA" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C23:/5960E58C/59B830DA" pin "1"  net de "" en "GND".
+
+Changement composant "C23:/5960E58C/59B830DA" pin "2"  net de "" en "Net-(C23-Pad2)".
+
+Info: Vérification du composant de la netliste "C24:/5960E58C/59B830C5:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C24:/5960E58C/59B830C5" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C24:/5960E58C/59B830C5" pin "1"  net de "" en "Net-(C23-Pad2)".
+
+Changement composant "C24:/5960E58C/59B830C5" pin "2"  net de "" en "Net-(C24-Pad2)".
+
+Info: Vérification du composant de la netliste "C25:/5960E58C/59B830E1:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C25:/5960E58C/59B830E1" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C25:/5960E58C/59B830E1" pin "1"  net de "" en "Net-(C24-Pad2)".
+
+Changement composant "C25:/5960E58C/59B830E1" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C26:/5960E58C/5960FA74:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C26:/5960E58C/5960FA74" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C26:/5960E58C/5960FA74" pin "1"  net de "" en "GND".
+
+Changement composant "C26:/5960E58C/5960FA74" pin "2"  net de "" en "Net-(C26-Pad2)".
+
+Info: Vérification du composant de la netliste "C27:/5960E58C/5960F0E6:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C27:/5960E58C/5960F0E6" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C27:/5960E58C/5960F0E6" pin "1"  net de "" en "Net-(C26-Pad2)".
+
+Changement composant "C27:/5960E58C/5960F0E6" pin "2"  net de "" en "Net-(C27-Pad2)".
+
+Info: Vérification du composant de la netliste "C28:/5960E58C/5960FAA2:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C28:/5960E58C/5960FAA2" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C28:/5960E58C/5960FAA2" pin "1"  net de "" en "Net-(C27-Pad2)".
+
+Changement composant "C28:/5960E58C/5960FAA2" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C29:/5960E58C/59B94A36:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C29:/5960E58C/59B94A36" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C29:/5960E58C/59B94A36" pin "1"  net de "" en "GND".
+
+Changement composant "C29:/5960E58C/59B94A36" pin "2"  net de "" en "+3V3".
+
+Info: Vérification du composant de la netliste "C30:/5960E58C/59615F7F:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C30:/5960E58C/59615F7F" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C30:/5960E58C/59615F7F" pin "1"  net de "" en "Net-(C30-Pad1)".
+
+Changement composant "C30:/5960E58C/59615F7F" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C31:/5960E58C/59615F1A:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C31:/5960E58C/59615F1A" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C31:/5960E58C/59615F1A" pin "1"  net de "" en "Net-(C31-Pad1)".
+
+Changement composant "C31:/5960E58C/59615F1A" pin "2"  net de "" en "Net-(C30-Pad1)".
+
+Info: Vérification du composant de la netliste "C32:/5960E58C/59615FDB:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C32:/5960E58C/59615FDB" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C32:/5960E58C/59615FDB" pin "1"  net de "" en "GND".
+
+Changement composant "C32:/5960E58C/59615FDB" pin "2"  net de "" en "Net-(C31-Pad1)".
+
+Info: Vérification du composant de la netliste "C33:/5960E58C/59B8550F:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C33:/5960E58C/59B8550F" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C33:/5960E58C/59B8550F" pin "1"  net de "" en "Net-(C33-Pad1)".
+
+Changement composant "C33:/5960E58C/59B8550F" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "C34:/5960E58C/59B94E14:Capacitors_SMD:C_0805_HandSoldering".
+
+Ajout du nouveau composant "C34:/5960E58C/59B94E14" empreinte "Capacitors_SMD:C_0805_HandSoldering".
+
+Changement composant "C34:/5960E58C/59B94E14" pin "1"  net de "" en "GND".
+
+Changement composant "C34:/5960E58C/59B94E14" pin "2"  net de "" en "+3V3".
+
+Info: Vérification du composant de la netliste "D1:/595CC9DA/59B9EFFE:Diodes_SMD:D_SOD-123".
+
+Ajout du nouveau composant "D1:/595CC9DA/59B9EFFE" empreinte "Diodes_SMD:D_SOD-123".
+
+Changement composant "D1:/595CC9DA/59B9EFFE" pin "1"  net de "" en "+3V3".
+
+Changement composant "D1:/595CC9DA/59B9EFFE" pin "2"  net de "" en "1Wire".
+
+Info: Vérification du composant de la netliste "D2:/595CC9DA/59B9ECCE:Diodes_SMD:D_SOD-123".
+
+Ajout du nouveau composant "D2:/595CC9DA/59B9ECCE" empreinte "Diodes_SMD:D_SOD-123".
+
+Changement composant "D2:/595CC9DA/59B9ECCE" pin "1"  net de "" en "1Wire".
+
+Changement composant "D2:/595CC9DA/59B9ECCE" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "D3:/595CC9DA/59A80FF7:Diodes_SMD:D_SOD-123".
+
+Ajout du nouveau composant "D3:/595CC9DA/59A80FF7" empreinte "Diodes_SMD:D_SOD-123".
+
+Changement composant "D3:/595CC9DA/59A80FF7" pin "1"  net de "" en "+VDC".
+
+Changement composant "D3:/595CC9DA/59A80FF7" pin "2"  net de "" en "Net-(D3-Pad2)".
+
+Info: Vérification du composant de la netliste "D4:/595CC9DA/59A753A0:LEDs:LED_0805_HandSoldering".
+
+Ajout du nouveau composant "D4:/595CC9DA/59A753A0" empreinte "LEDs:LED_0805_HandSoldering".
+
+Changement composant "D4:/595CC9DA/59A753A0" pin "1"  net de "" en "Net-(D4-Pad1)".
+
+Changement composant "D4:/595CC9DA/59A753A0" pin "2"  net de "" en "Net-(D4-Pad2)".
+
+Info: Vérification du composant de la netliste "D5:/595CC9DA/59B9B36D:Diodes_SMD:D_SOD-123".
+
+Ajout du nouveau composant "D5:/595CC9DA/59B9B36D" empreinte "Diodes_SMD:D_SOD-123".
+
+Changement composant "D5:/595CC9DA/59B9B36D" pin "1"  net de "" en "+VDC".
+
+Changement composant "D5:/595CC9DA/59B9B36D" pin "2"  net de "" en "Net-(D4-Pad1)".
+
+Info: Vérification du composant de la netliste "D6:/595CC9DA/59B98CC8:Diodes_SMD:D_SOD-123".
+
+Ajout du nouveau composant "D6:/595CC9DA/59B98CC8" empreinte "Diodes_SMD:D_SOD-123".
+
+Changement composant "D6:/595CC9DA/59B98CC8" pin "1"  net de "" en "Net-(D6-Pad1)".
+
+Changement composant "D6:/595CC9DA/59B98CC8" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "D7:/595CC9DA/595CD6E2:LEDs:LED_0805_HandSoldering".
+
+Ajout du nouveau composant "D7:/595CC9DA/595CD6E2" empreinte "LEDs:LED_0805_HandSoldering".
+
+Changement composant "D7:/595CC9DA/595CD6E2" pin "1"  net de "" en "Net-(D7-Pad1)".
+
+Changement composant "D7:/595CC9DA/595CD6E2" pin "2"  net de "" en "Net-(D7-Pad2)".
+
+Info: Vérification du composant de la netliste "D8:/595CC9DA/59B9AD54:Diodes_SMD:D_SOD-123".
+
+Ajout du nouveau composant "D8:/595CC9DA/59B9AD54" empreinte "Diodes_SMD:D_SOD-123".
+
+Changement composant "D8:/595CC9DA/59B9AD54" pin "1"  net de "" en "+VDC".
+
+Changement composant "D8:/595CC9DA/59B9AD54" pin "2"  net de "" en "Net-(D7-Pad1)".
+
+Info: Vérification du composant de la netliste "D9:/595CC9DA/59A73F7A:LEDs:LED_0805_HandSoldering".
+
+Ajout du nouveau composant "D9:/595CC9DA/59A73F7A" empreinte "LEDs:LED_0805_HandSoldering".
+
+Changement composant "D9:/595CC9DA/59A73F7A" pin "1"  net de "" en "Net-(D10-Pad2)".
+
+Changement composant "D9:/595CC9DA/59A73F7A" pin "2"  net de "" en "Net-(D9-Pad2)".
+
+Info: Vérification du composant de la netliste "D10:/595CC9DA/59B9AE45:Diodes_SMD:D_SOD-123".
+
+Ajout du nouveau composant "D10:/595CC9DA/59B9AE45" empreinte "Diodes_SMD:D_SOD-123".
+
+Changement composant "D10:/595CC9DA/59B9AE45" pin "1"  net de "" en "+VDC".
+
+Changement composant "D10:/595CC9DA/59B9AE45" pin "2"  net de "" en "Net-(D10-Pad2)".
+
+Info: Vérification du composant de la netliste "D11:/5960E58C/5960FEFE:Diodes_SMD:D_SOD-523".
+
+Ajout du nouveau composant "D11:/5960E58C/5960FEFE" empreinte "Diodes_SMD:D_SOD-523".
+
+Changement composant "D11:/5960E58C/5960FEFE" pin "2"  net de "" en "GND".
+
+Changement composant "D11:/5960E58C/5960FEFE" pin "1"  net de "" en "Iexc2".
+
+Info: Vérification du composant de la netliste "D12:/5960E58C/59B835E9:Diodes_SMD:D_SOD-523".
+
+Ajout du nouveau composant "D12:/5960E58C/59B835E9" empreinte "Diodes_SMD:D_SOD-523".
+
+Changement composant "D12:/5960E58C/59B835E9" pin "2"  net de "" en "GND".
+
+Changement composant "D12:/5960E58C/59B835E9" pin "1"  net de "" en "Net-(C16-Pad1)".
+
+Info: Vérification du composant de la netliste "D13:/5960E58C/59B830E8:Diodes_SMD:D_SOD-523".
+
+Ajout du nouveau composant "D13:/5960E58C/59B830E8" empreinte "Diodes_SMD:D_SOD-523".
+
+Changement composant "D13:/5960E58C/59B830E8" pin "2"  net de "" en "GND".
+
+Changement composant "D13:/5960E58C/59B830E8" pin "1"  net de "" en "Net-(C17-Pad1)".
+
+Info: Vérification du composant de la netliste "D14:/5960E58C/59B84950:Diodes_SMD:D_SOD-523".
+
+Ajout du nouveau composant "D14:/5960E58C/59B84950" empreinte "Diodes_SMD:D_SOD-523".
+
+Changement composant "D14:/5960E58C/59B84950" pin "2"  net de "" en "GND".
+
+Changement composant "D14:/5960E58C/59B84950" pin "1"  net de "" en "Net-(C19-Pad2)".
+
+Info: Vérification du composant de la netliste "D15:/5960E58C/59B837C6:Diodes_SMD:D_SOD-523".
+
+Ajout du nouveau composant "D15:/5960E58C/59B837C6" empreinte "Diodes_SMD:D_SOD-523".
+
+Changement composant "D15:/5960E58C/59B837C6" pin "2"  net de "" en "GND".
+
+Changement composant "D15:/5960E58C/59B837C6" pin "1"  net de "" en "Net-(C18-Pad1)".
+
+Info: Vérification du composant de la netliste "D16:/5960E58C/59B84560:Diodes_SMD:D_SOD-523".
+
+Ajout du nouveau composant "D16:/5960E58C/59B84560" empreinte "Diodes_SMD:D_SOD-523".
+
+Changement composant "D16:/5960E58C/59B84560" pin "2"  net de "" en "GND".
+
+Changement composant "D16:/5960E58C/59B84560" pin "1"  net de "" en "Iexc1".
+
+Info: Vérification du composant de la netliste "D17:/5960E58C/59B83BCA:Diodes_SMD:D_SOD-523".
+
+Ajout du nouveau composant "D17:/5960E58C/59B83BCA" empreinte "Diodes_SMD:D_SOD-523".
+
+Changement composant "D17:/5960E58C/59B83BCA" pin "2"  net de "" en "GND".
+
+Changement composant "D17:/5960E58C/59B83BCA" pin "1"  net de "" en "Net-(C21-Pad2)".
+
+Info: Vérification du composant de la netliste "D18:/5960E58C/59B84AB0:Diodes_SMD:D_SOD-523".
+
+Ajout du nouveau composant "D18:/5960E58C/59B84AB0" empreinte "Diodes_SMD:D_SOD-523".
+
+Changement composant "D18:/5960E58C/59B84AB0" pin "2"  net de "" en "GND".
+
+Changement composant "D18:/5960E58C/59B84AB0" pin "1"  net de "" en "Net-(C22-Pad2)".
+
+Info: Vérification du composant de la netliste "H1:/5834BC4A:project_footprints:NPTH_3mm_ID".
+
+Info: Vérification du composant de la netliste "H2:/5834BD62:project_footprints:NPTH_3mm_ID".
+
+Info: Change le chemin des empreintes "H2:/5834BCDF" en "/5834BD62".
+
+Info: Vérification du composant de la netliste "H3:/5834BCDF:project_footprints:NPTH_3mm_ID".
+
+Info: Change le chemin des empreintes "H3:/5834BD62" en "/5834BCDF".
+
+Info: Vérification du composant de la netliste "H4:/5834BDED:project_footprints:NPTH_3mm_ID".
+
+Info: Vérification du composant de la netliste "J1:/58E18D32:Pin_Headers:Pin_Header_Straight_1x02".
+
+Erreur: Impossible d'ajouter le composant nouveau "J1:/58E18D32" car l'empreinte "Pin_Headers:Pin_Header_Straight_1x02" est manquante.
+
+Info: Vérification du composant de la netliste "J2:/58DFC771:Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm".
+
+Ajout du nouveau composant "J2:/58DFC771" empreinte "Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm".
+
+Changement composant "J2:/58DFC771" pin "1"  net de "" en "/P3V3_HAT".
+
+Changement composant "J2:/58DFC771" pin "2"  net de "" en "/P5V_HAT".
+
+Changement composant "J2:/58DFC771" pin "3"  net de "" en "SDA".
+
+Changement composant "J2:/58DFC771" pin "4"  net de "" en "/P5V_HAT".
+
+Changement composant "J2:/58DFC771" pin "5"  net de "" en "SCL".
+
+Changement composant "J2:/58DFC771" pin "6"  net de "" en "GND".
+
+Changement composant "J2:/58DFC771" pin "7"  net de "" en "Net-(J2-Pad7)".
+
+Changement composant "J2:/58DFC771" pin "8"  net de "" en "Net-(J2-Pad8)".
+
+Changement composant "J2:/58DFC771" pin "9"  net de "" en "GND".
+
+Changement composant "J2:/58DFC771" pin "10"  net de "" en "Net-(J2-Pad10)".
+
+Changement composant "J2:/58DFC771" pin "11"  net de "" en "ADC_/DRdy".
+
+Changement composant "J2:/58DFC771" pin "12"  net de "" en "SSR1".
+
+Changement composant "J2:/58DFC771" pin "13"  net de "" en "ADC_Start".
+
+Changement composant "J2:/58DFC771" pin "14"  net de "" en "GND".
+
+Changement composant "J2:/58DFC771" pin "15"  net de "" en "ADC_/Reset".
+
+Changement composant "J2:/58DFC771" pin "16"  net de "" en "SSR2".
+
+Changement composant "J2:/58DFC771" pin "17"  net de "" en "Net-(J2-Pad17)".
+
+Changement composant "J2:/58DFC771" pin "18"  net de "" en "SSR3".
+
+Changement composant "J2:/58DFC771" pin "19"  net de "" en "SPI_MOSI".
+
+Changement composant "J2:/58DFC771" pin "20"  net de "" en "GND".
+
+Changement composant "J2:/58DFC771" pin "21"  net de "" en "SPI_MISO".
+
+Changement composant "J2:/58DFC771" pin "22"  net de "" en "BUZ".
+
+Changement composant "J2:/58DFC771" pin "23"  net de "" en "SPI_CLK".
+
+Changement composant "J2:/58DFC771" pin "24"  net de "" en "SPI_CS".
+
+Changement composant "J2:/58DFC771" pin "25"  net de "" en "GND".
+
+Changement composant "J2:/58DFC771" pin "26"  net de "" en "Net-(J2-Pad26)".
+
+Changement composant "J2:/58DFC771" pin "27"  net de "" en "/ID_SD_EEPROM".
+
+Changement composant "J2:/58DFC771" pin "28"  net de "" en "/ID_SC_EEPROM".
+
+Changement composant "J2:/58DFC771" pin "29"  net de "" en "1Wire".
+
+Changement composant "J2:/58DFC771" pin "30"  net de "" en "GND".
+
+Changement composant "J2:/58DFC771" pin "31"  net de "" en "Net-(J2-Pad31)".
+
+Changement composant "J2:/58DFC771" pin "32"  net de "" en "PWM1".
+
+Changement composant "J2:/58DFC771" pin "33"  net de "" en "PWM2".
+
+Changement composant "J2:/58DFC771" pin "34"  net de "" en "GND".
+
+Changement composant "J2:/58DFC771" pin "35"  net de "" en "Net-(J2-Pad35)".
+
+Changement composant "J2:/58DFC771" pin "36"  net de "" en "Net-(J2-Pad36)".
+
+Changement composant "J2:/58DFC771" pin "37"  net de "" en "GPIO".
+
+Changement composant "J2:/58DFC771" pin "38"  net de "" en "Net-(J2-Pad38)".
+
+Changement composant "J2:/58DFC771" pin "39"  net de "" en "GND".
+
+Changement composant "J2:/58DFC771" pin "40"  net de "" en "Net-(J2-Pad40)".
+
+Info: Vérification du composant de la netliste "J3:/58E13683:Pin_Headers:Pin_Header_Straight_2x02".
+
+Erreur: Impossible de remplacer le composant "J3:/58DFC771" car l'empreinte "Pin_Headers:Pin_Header_Straight_2x02" est manquante.
+
+Changement valeur empreinte "J3:/58DFC771" de "40HAT" en "CONN_02X02".
+
+Info: Change le chemin des empreintes "J3:/58DFC771" en "/58E13683".
+
+Changement composant "J3:/58E13683" pin "1"  net de "/P3V3_HAT" en "+3V3".
+
+Changement composant "J3:/58E13683" pin "2"  net de "/P5V_HAT" en "/P3V3_HAT".
+
+Changement composant "J3:/58E13683" pin "3"  net de "" en "P5V".
+
+Suppression netname composant "J3:/58E13683" pin "6".
+
+Suppression netname composant "J3:/58E13683" pin "9".
+
+Suppression netname composant "J3:/58E13683" pin "14".
+
+Suppression netname composant "J3:/58E13683" pin "20".
+
+Suppression netname composant "J3:/58E13683" pin "25".
+
+Suppression netname composant "J3:/58E13683" pin "27".
+
+Suppression netname composant "J3:/58E13683" pin "28".
+
+Suppression netname composant "J3:/58E13683" pin "30".
+
+Suppression netname composant "J3:/58E13683" pin "34".
+
+Suppression netname composant "J3:/58E13683" pin "39".
+
+Info: Vérification du composant de la netliste "J4:/595CC9DA/59BC2424:Mylib:bornier6_2.54".
+
+Ajout du nouveau composant "J4:/595CC9DA/59BC2424" empreinte "Mylib:bornier6_2.54".
+
+Changement composant "J4:/595CC9DA/59BC2424" pin "3"  net de "" en "GND".
+
+Changement composant "J4:/595CC9DA/59BC2424" pin "2"  net de "" en "1Wire".
+
+Changement composant "J4:/595CC9DA/59BC2424" pin "1"  net de "" en "+3V3".
+
+Changement composant "J4:/595CC9DA/59BC2424" pin "4"  net de "" en "+3V3".
+
+Changement composant "J4:/595CC9DA/59BC2424" pin "5"  net de "" en "1Wire".
+
+Changement composant "J4:/595CC9DA/59BC2424" pin "6"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "J5:/595CC9DA/59B997A9:Connect:bornier2".
+
+Ajout du nouveau composant "J5:/595CC9DA/59B997A9" empreinte "Connect:bornier2".
+
+Changement composant "J5:/595CC9DA/59B997A9" pin "1"  net de "" en "+VDC".
+
+Changement composant "J5:/595CC9DA/59B997A9" pin "2"  net de "" en "Net-(D6-Pad1)".
+
+Info: Vérification du composant de la netliste "L1:/595CC9DA/59AEAF89:Choke_SMD:Choke_SMD_7.3x7.3_H4.5".
+
+Ajout du nouveau composant "L1:/595CC9DA/59AEAF89" empreinte "Choke_SMD:Choke_SMD_7.3x7.3_H4.5".
+
+Changement composant "L1:/595CC9DA/59AEAF89" pin "1"  net de "" en "Net-(C4-Pad2)".
+
+Changement composant "L1:/595CC9DA/59AEAF89" pin "2"  net de "" en "P5V".
+
+Info: Vérification du composant de la netliste "P1:/595CC9DA/59A81E1F:Connect:BARREL_JACK".
+
+Ajout du nouveau composant "P1:/595CC9DA/59A81E1F" empreinte "Connect:BARREL_JACK".
+
+Changement composant "P1:/595CC9DA/59A81E1F" pin "1"  net de "" en "Net-(D3-Pad2)".
+
+Changement composant "P1:/595CC9DA/59A81E1F" pin "2"  net de "" en "GND".
+
+Changement composant "P1:/595CC9DA/59A81E1F" pin "3"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "P2:/595CC9DA/595CD70A:Connect:bornier2".
+
+Ajout du nouveau composant "P2:/595CC9DA/595CD70A" empreinte "Connect:bornier2".
+
+Changement composant "P2:/595CC9DA/595CD70A" pin "1"  net de "" en "GND".
+
+Changement composant "P2:/595CC9DA/595CD70A" pin "2"  net de "" en "Net-(D3-Pad2)".
+
+Info: Vérification du composant de la netliste "P3:/595CC9DA/59A753AE:Connect:bornier2".
+
+Ajout du nouveau composant "P3:/595CC9DA/59A753AE" empreinte "Connect:bornier2".
+
+Changement composant "P3:/595CC9DA/59A753AE" pin "1"  net de "" en "+VDC".
+
+Changement composant "P3:/595CC9DA/59A753AE" pin "2"  net de "" en "Net-(D4-Pad1)".
+
+Info: Vérification du composant de la netliste "P4:/595CC9DA/595CD6E4:Connect:bornier2".
+
+Ajout du nouveau composant "P4:/595CC9DA/595CD6E4" empreinte "Connect:bornier2".
+
+Changement composant "P4:/595CC9DA/595CD6E4" pin "1"  net de "" en "+VDC".
+
+Changement composant "P4:/595CC9DA/595CD6E4" pin "2"  net de "" en "Net-(D7-Pad1)".
+
+Info: Vérification du composant de la netliste "P5:/595CC9DA/59A73F88:Connect:bornier2".
+
+Ajout du nouveau composant "P5:/595CC9DA/59A73F88" empreinte "Connect:bornier2".
+
+Changement composant "P5:/595CC9DA/59A73F88" pin "1"  net de "" en "+VDC".
+
+Changement composant "P5:/595CC9DA/59A73F88" pin "2"  net de "" en "Net-(D10-Pad2)".
+
+Info: Vérification du composant de la netliste "P6:/595CC9DA/595CD6EB:Connect:Fan_Pin_Header_Straight_1x04".
+
+Ajout du nouveau composant "P6:/595CC9DA/595CD6EB" empreinte "Connect:Fan_Pin_Header_Straight_1x04".
+
+Changement composant "P6:/595CC9DA/595CD6EB" pin "1"  net de "" en "GND".
+
+Changement composant "P6:/595CC9DA/595CD6EB" pin "2"  net de "" en "+3V3".
+
+Changement composant "P6:/595CC9DA/595CD6EB" pin "3"  net de "" en "Net-(P6-Pad3)".
+
+Changement composant "P6:/595CC9DA/595CD6EB" pin "4"  net de "" en "Net-(P6-Pad4)".
+
+Info: Vérification du composant de la netliste "P7:/595CC9DA/595CD6F0:Connect:PINHEAD1-6".
+
+Ajout du nouveau composant "P7:/595CC9DA/595CD6F0" empreinte "Connect:PINHEAD1-6".
+
+Changement composant "P7:/595CC9DA/595CD6F0" pin "1"  net de "" en "P5V".
+
+Changement composant "P7:/595CC9DA/595CD6F0" pin "2"  net de "" en "+3V3".
+
+Changement composant "P7:/595CC9DA/595CD6F0" pin "3"  net de "" en "GPIO".
+
+Changement composant "P7:/595CC9DA/595CD6F0" pin "4"  net de "" en "GND".
+
+Changement composant "P7:/595CC9DA/595CD6F0" pin "5"  net de "" en "GND".
+
+Changement composant "P7:/595CC9DA/595CD6F0" pin "6"  net de "" en "Net-(P7-Pad6)".
+
+Info: Vérification du composant de la netliste "P8:/5960E58C/5960E909:Connect:Fan_Pin_Header_Straight_1x03".
+
+Ajout du nouveau composant "P8:/5960E58C/5960E909" empreinte "Connect:Fan_Pin_Header_Straight_1x03".
+
+Changement composant "P8:/5960E58C/5960E909" pin "1"  net de "" en "Iexc2".
+
+Changement composant "P8:/5960E58C/5960E909" pin "2"  net de "" en "Iexc1".
+
+Changement composant "P8:/5960E58C/5960E909" pin "3"  net de "" en "/ADC/Vref".
+
+Info: Vérification du composant de la netliste "P9:/5960E58C/59B835E2:Connect:Fan_Pin_Header_Straight_1x03".
+
+Ajout du nouveau composant "P9:/5960E58C/59B835E2" empreinte "Connect:Fan_Pin_Header_Straight_1x03".
+
+Changement composant "P9:/5960E58C/59B835E2" pin "1"  net de "" en "Net-(C16-Pad1)".
+
+Changement composant "P9:/5960E58C/59B835E2" pin "2"  net de "" en "Net-(C19-Pad2)".
+
+Changement composant "P9:/5960E58C/59B835E2" pin "3"  net de "" en "/ADC/Vref".
+
+Info: Vérification du composant de la netliste "P10:/5960E58C/59B830BE:Connect:Fan_Pin_Header_Straight_1x03".
+
+Ajout du nouveau composant "P10:/5960E58C/59B830BE" empreinte "Connect:Fan_Pin_Header_Straight_1x03".
+
+Changement composant "P10:/5960E58C/59B830BE" pin "1"  net de "" en "Net-(C17-Pad1)".
+
+Changement composant "P10:/5960E58C/59B830BE" pin "2"  net de "" en "Net-(C21-Pad2)".
+
+Changement composant "P10:/5960E58C/59B830BE" pin "3"  net de "" en "/ADC/Vref".
+
+Info: Vérification du composant de la netliste "P11:/5960E58C/59B837BF:Connect:Fan_Pin_Header_Straight_1x03".
+
+Ajout du nouveau composant "P11:/5960E58C/59B837BF" empreinte "Connect:Fan_Pin_Header_Straight_1x03".
+
+Changement composant "P11:/5960E58C/59B837BF" pin "1"  net de "" en "Net-(C18-Pad1)".
+
+Changement composant "P11:/5960E58C/59B837BF" pin "2"  net de "" en "Net-(C22-Pad2)".
+
+Changement composant "P11:/5960E58C/59B837BF" pin "3"  net de "" en "/ADC/Vref".
+
+Info: Vérification du composant de la netliste "Q1:/58E1538B:TO_SOT_Packages_SMD:SOT-23-6_Handsoldering".
+
+Remplace composant "Q1:/58E14EB1" empreinte "TO_SOT_Packages_SMD:SOT-23" par "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering".
+
+Info: Change le chemin des empreintes "Q1:/58E14EB1" en "/58E1538B".
+
+Changement composant "Q1:/58E1538B" pin "1"  net de "" en "Net-(Q1-Pad1)".
+
+Changement composant "Q1:/58E1538B" pin "2"  net de "" en "Net-(Q1-Pad1)".
+
+Changement composant "Q1:/58E1538B" pin "3"  net de "" en "Net-(Q1-Pad1)".
+
+Changement composant "Q1:/58E1538B" pin "4"  net de "" en "Net-(Q1-Pad4)".
+
+Changement composant "Q1:/58E1538B" pin "6"  net de "" en "P5V".
+
+Changement composant "Q1:/58E1538B" pin "5"  net de "" en "/P5V_HAT".
+
+Info: Vérification du composant de la netliste "Q2:/58E14EB1:TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Remplace composant "Q2:/58E1538B" empreinte "TO_SOT_Packages_SMD:SOT-23-6" par "TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Info: Change le chemin des empreintes "Q2:/58E1538B" en "/58E14EB1".
+
+Changement composant "Q2:/58E14EB1" pin "1"  net de "" en "Net-(Q1-Pad4)".
+
+Changement composant "Q2:/58E14EB1" pin "2"  net de "" en "/P5V_HAT".
+
+Changement composant "Q2:/58E14EB1" pin "3"  net de "" en "P5V".
+
+Info: Vérification du composant de la netliste "Q3:/595CC9DA/59B97D43:TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Ajout du nouveau composant "Q3:/595CC9DA/59B97D43" empreinte "TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Changement composant "Q3:/595CC9DA/59B97D43" pin "1"  net de "" en "Net-(Q3-Pad1)".
+
+Changement composant "Q3:/595CC9DA/59B97D43" pin "2"  net de "" en "GND".
+
+Changement composant "Q3:/595CC9DA/59B97D43" pin "3"  net de "" en "Net-(D6-Pad1)".
+
+Info: Vérification du composant de la netliste "Q4:/595CC9DA/59A7538D:TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Ajout du nouveau composant "Q4:/595CC9DA/59A7538D" empreinte "TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Changement composant "Q4:/595CC9DA/59A7538D" pin "1"  net de "" en "Net-(Q4-Pad1)".
+
+Changement composant "Q4:/595CC9DA/59A7538D" pin "2"  net de "" en "GND".
+
+Changement composant "Q4:/595CC9DA/59A7538D" pin "3"  net de "" en "Net-(D4-Pad1)".
+
+Info: Vérification du composant de la netliste "Q5:/595CC9DA/59B9C1B5:TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Ajout du nouveau composant "Q5:/595CC9DA/59B9C1B5" empreinte "TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Changement composant "Q5:/595CC9DA/59B9C1B5" pin "1"  net de "" en "Net-(Q5-Pad1)".
+
+Changement composant "Q5:/595CC9DA/59B9C1B5" pin "2"  net de "" en "GND".
+
+Changement composant "Q5:/595CC9DA/59B9C1B5" pin "3"  net de "" en "Net-(D7-Pad1)".
+
+Info: Vérification du composant de la netliste "Q6:/595CC9DA/59B9D9BD:TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Ajout du nouveau composant "Q6:/595CC9DA/59B9D9BD" empreinte "TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Changement composant "Q6:/595CC9DA/59B9D9BD" pin "1"  net de "" en "Net-(Q6-Pad1)".
+
+Changement composant "Q6:/595CC9DA/59B9D9BD" pin "2"  net de "" en "GND".
+
+Changement composant "Q6:/595CC9DA/59B9D9BD" pin "3"  net de "" en "Net-(Q6-Pad3)".
+
+Info: Vérification du composant de la netliste "Q7:/595CC9DA/59B9C291:TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Ajout du nouveau composant "Q7:/595CC9DA/59B9C291" empreinte "TO_SOT_Packages_SMD:SOT-23_Handsoldering".
+
+Changement composant "Q7:/595CC9DA/59B9C291" pin "1"  net de "" en "Net-(Q7-Pad1)".
+
+Changement composant "Q7:/595CC9DA/59B9C291" pin "2"  net de "" en "GND".
+
+Changement composant "Q7:/595CC9DA/59B9C291" pin "3"  net de "" en "Net-(D10-Pad2)".
+
+Info: Vérification du composant de la netliste "R1:/58E22900:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R1:/58E22900" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R1:/58E22900" pin "1"  net de "" en "Net-(J1-Pad2)".
+
+Changement composant "R1:/58E22900" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "R2:/58E19E51:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R2:/58E19E51" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R2:/58E19E51" pin "1"  net de "" en "+3V3".
+
+Changement composant "R2:/58E19E51" pin "2"  net de "" en "Net-(J1-Pad2)".
+
+Info: Vérification du composant de la netliste "R3:/58E17715:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R3:/58E17715" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R3:/58E17715" pin "1"  net de "" en "+3V3".
+
+Changement composant "R3:/58E17715" pin "2"  net de "" en "/ID_SD_EEPROM".
+
+Info: Vérification du composant de la netliste "R4:/58E17720:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R4:/58E17720" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R4:/58E17720" pin "1"  net de "" en "+3V3".
+
+Changement composant "R4:/58E17720" pin "2"  net de "" en "/ID_SC_EEPROM".
+
+Info: Vérification du composant de la netliste "R5:/58E15896:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R5:/58E15896" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R5:/58E15896" pin "1"  net de "" en "Net-(Q1-Pad1)".
+
+Changement composant "R5:/58E15896" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "R6:/58E22085:Resistors_SMD:R_0805_HandSoldering".
+
+Remplace composant "R6:/58E17715" empreinte "Resistors_SMD:R_0603_HandSoldering" par "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Change le chemin des empreintes "R6:/58E17715" en "/58E22085".
+
+Changement composant "R6:/58E22085" pin "1"  net de "" en "/P3V3_HAT".
+
+Changement composant "R6:/58E22085" pin "2"  net de "" en "+3V3".
+
+Info: Vérification du composant de la netliste "R7:/58E2218F:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Change le chemin des empreintes "R7:/58E22085" en "/58E2218F".
+
+Changement composant "R7:/58E2218F" pin "1"  net de "/P3V3_HAT" en "/P5V_HAT".
+
+Changement composant "R7:/58E2218F" pin "2"  net de "/P3V3" en "P5V".
+
+Info: Vérification du composant de la netliste "R8:/58E158A1:Resistors_SMD:R_0603_HandSoldering".
+
+Changement valeur empreinte "R8:/58E17720" de "3.9K" en "10k".
+
+Info: Change le chemin des empreintes "R8:/58E17720" en "/58E158A1".
+
+Changement composant "R8:/58E158A1" pin "1"  net de "/P3V3" en "Net-(Q1-Pad4)".
+
+Changement composant "R8:/58E158A1" pin "2"  net de "/ID_SC_EEPROM" en "GND".
+
+Info: Vérification du composant de la netliste "R9:/595CC9DA/59B986DC:Resistors_SMD:R_0805_HandSoldering".
+
+Changement valeur empreinte "R9:/58E2218F" de "DNP" en "100k".
+
+Info: Change le chemin des empreintes "R9:/58E2218F" en "/595CC9DA/59B986DC".
+
+Changement composant "R9:/595CC9DA/59B986DC" pin "1"  net de "/P5V_HAT" en "GND".
+
+Changement composant "R9:/595CC9DA/59B986DC" pin "2"  net de "/P5V" en "PWM2".
+
+Info: Vérification du composant de la netliste "R10:/595CC9DA/59A75386:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R10:/595CC9DA/59A75386" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R10:/595CC9DA/59A75386" pin "1"  net de "" en "Net-(Q4-Pad1)".
+
+Changement composant "R10:/595CC9DA/59A75386" pin "2"  net de "" en "SSR1".
+
+Info: Vérification du composant de la netliste "R11:/595CC9DA/59B9B5CC:Resistors_SMD:R_0805_HandSoldering".
+
+Changement valeur empreinte "R11:/58E22900" de "DNP" en "4.7k".
+
+Info: Change le chemin des empreintes "R11:/58E22900" en "/595CC9DA/59B9B5CC".
+
+Changement composant "R11:/595CC9DA/59B9B5CC" pin "1"  net de "Net-(J9-Pad2)" en "1Wire".
+
+Changement composant "R11:/595CC9DA/59B9B5CC" pin "2"  net de "GND" en "+3V3".
+
+Info: Vérification du composant de la netliste "R12:/595CC9DA/59B984D0:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R12:/595CC9DA/59B984D0" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R12:/595CC9DA/59B984D0" pin "1"  net de "" en "Net-(Q3-Pad1)".
+
+Changement composant "R12:/595CC9DA/59B984D0" pin "2"  net de "" en "PWM2".
+
+Info: Vérification du composant de la netliste "R13:/595CC9DA/59A753A7:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R13:/595CC9DA/59A753A7" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R13:/595CC9DA/59A753A7" pin "1"  net de "" en "Net-(D4-Pad2)".
+
+Changement composant "R13:/595CC9DA/59A753A7" pin "2"  net de "" en "+VDC".
+
+Info: Vérification du composant de la netliste "R14:/595CC9DA/59AE89E1:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R14:/595CC9DA/59AE89E1" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R14:/595CC9DA/59AE89E1" pin "1"  net de "" en "+VDC".
+
+Changement composant "R14:/595CC9DA/59AE89E1" pin "2"  net de "" en "Net-(R14-Pad2)".
+
+Info: Vérification du composant de la netliste "R15:/595CC9DA/59AE8B5E:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R15:/595CC9DA/59AE8B5E" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R15:/595CC9DA/59AE8B5E" pin "1"  net de "" en "Net-(R14-Pad2)".
+
+Changement composant "R15:/595CC9DA/59AE8B5E" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "R16:/595CC9DA/595CD6DE:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R16:/595CC9DA/595CD6DE" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R16:/595CC9DA/595CD6DE" pin "1"  net de "" en "Net-(Q5-Pad1)".
+
+Changement composant "R16:/595CC9DA/595CD6DE" pin "2"  net de "" en "SSR2".
+
+Info: Vérification du composant de la netliste "R17:/595CC9DA/595CD6E3:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R17:/595CC9DA/595CD6E3" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R17:/595CC9DA/595CD6E3" pin "1"  net de "" en "Net-(D7-Pad2)".
+
+Changement composant "R17:/595CC9DA/595CD6E3" pin "2"  net de "" en "+VDC".
+
+Info: Vérification du composant de la netliste "R18:/595CC9DA/59B9D8A6:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R18:/595CC9DA/59B9D8A6" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R18:/595CC9DA/59B9D8A6" pin "1"  net de "" en "Net-(Q6-Pad1)".
+
+Changement composant "R18:/595CC9DA/59B9D8A6" pin "2"  net de "" en "BUZ".
+
+Info: Vérification du composant de la netliste "R19:/595CC9DA/59BA55B2:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R19:/595CC9DA/59BA55B2" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R19:/595CC9DA/59BA55B2" pin "1"  net de "" en "Net-(Q6-Pad3)".
+
+Changement composant "R19:/595CC9DA/59BA55B2" pin "2"  net de "" en "P5V".
+
+Info: Vérification du composant de la netliste "R20:/595CC9DA/59A73F60:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R20:/595CC9DA/59A73F60" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R20:/595CC9DA/59A73F60" pin "1"  net de "" en "Net-(Q7-Pad1)".
+
+Changement composant "R20:/595CC9DA/59A73F60" pin "2"  net de "" en "SSR3".
+
+Info: Vérification du composant de la netliste "R21:/595CC9DA/59A73F81:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R21:/595CC9DA/59A73F81" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R21:/595CC9DA/59A73F81" pin "1"  net de "" en "Net-(D9-Pad2)".
+
+Changement composant "R21:/595CC9DA/59A73F81" pin "2"  net de "" en "+VDC".
+
+Info: Vérification du composant de la netliste "R22:/595CC9DA/59AEBBF2:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R22:/595CC9DA/59AEBBF2" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R22:/595CC9DA/59AEBBF2" pin "1"  net de "" en "P5V".
+
+Changement composant "R22:/595CC9DA/59AEBBF2" pin "2"  net de "" en "Net-(C7-Pad1)".
+
+Info: Vérification du composant de la netliste "R23:/595CC9DA/59AEBD66:Resistors_SMD:R_0805_HandSoldering".
+
+Remplace composant "R23:/58E15896" empreinte "Resistors_SMD:R_0603_HandSoldering" par "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Change le chemin des empreintes "R23:/58E15896" en "/595CC9DA/59AEBD66".
+
+Changement composant "R23:/595CC9DA/59AEBD66" pin "1"  net de "" en "Net-(C7-Pad1)".
+
+Changement composant "R23:/595CC9DA/59AEBD66" pin "2"  net de "" en "Net-(C7-Pad2)".
+
+Info: Vérification du composant de la netliste "R24:/595CC9DA/59AEBE0F:Resistors_SMD:R_0805_HandSoldering".
+
+Remplace composant "R24:/58E158A1" empreinte "Resistors_SMD:R_0603_HandSoldering" par "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Change le chemin des empreintes "R24:/58E158A1" en "/595CC9DA/59AEBE0F".
+
+Changement composant "R24:/595CC9DA/59AEBE0F" pin "1"  net de "" en "Net-(C7-Pad2)".
+
+Changement composant "R24:/595CC9DA/59AEBE0F" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "R25:/595CC9DA/595CD6F8:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R25:/595CC9DA/595CD6F8" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R25:/595CC9DA/595CD6F8" pin "1"  net de "" en "Net-(C10-Pad1)".
+
+Changement composant "R25:/595CC9DA/595CD6F8" pin "2"  net de "" en "PWM1".
+
+Info: Vérification du composant de la netliste "R26:/595CC9DA/595CD6E7:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R26:/595CC9DA/595CD6E7" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R26:/595CC9DA/595CD6E7" pin "1"  net de "" en "SCL".
+
+Changement composant "R26:/595CC9DA/595CD6E7" pin "2"  net de "" en "+3V3".
+
+Info: Vérification du composant de la netliste "R27:/595CC9DA/595CD6E8:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R27:/595CC9DA/595CD6E8" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R27:/595CC9DA/595CD6E8" pin "1"  net de "" en "SDA".
+
+Changement composant "R27:/595CC9DA/595CD6E8" pin "2"  net de "" en "+3V3".
+
+Info: Vérification du composant de la netliste "R28:/595CC9DA/595CD6E9:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R28:/595CC9DA/595CD6E9" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R28:/595CC9DA/595CD6E9" pin "1"  net de "" en "Net-(P6-Pad3)".
+
+Changement composant "R28:/595CC9DA/595CD6E9" pin "2"  net de "" en "SCL".
+
+Info: Vérification du composant de la netliste "R29:/595CC9DA/595CD6EA:Resistors_SMD:R_0805_HandSoldering".
+
+Remplace composant "R29:/58E19E51" empreinte "Resistors_SMD:R_0603_HandSoldering" par "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Change le chemin des empreintes "R29:/58E19E51" en "/595CC9DA/595CD6EA".
+
+Changement composant "R29:/595CC9DA/595CD6EA" pin "1"  net de "" en "Net-(P6-Pad4)".
+
+Changement composant "R29:/595CC9DA/595CD6EA" pin "2"  net de "" en "SDA".
+
+Info: Vérification du composant de la netliste "R30:/595CC9DA/595CD6FE:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R30:/595CC9DA/595CD6FE" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R30:/595CC9DA/595CD6FE" pin "1"  net de "" en "GND".
+
+Changement composant "R30:/595CC9DA/595CD6FE" pin "2"  net de "" en "Net-(R30-Pad2)".
+
+Info: Vérification du composant de la netliste "R31:/595CC9DA/595CD6FD:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R31:/595CC9DA/595CD6FD" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R31:/595CC9DA/595CD6FD" pin "1"  net de "" en "Net-(R31-Pad1)".
+
+Changement composant "R31:/595CC9DA/595CD6FD" pin "2"  net de "" en "Net-(R31-Pad2)".
+
+Info: Vérification du composant de la netliste "R32:/595CC9DA/595CD70D:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R32:/595CC9DA/595CD70D" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R32:/595CC9DA/595CD70D" pin "1"  net de "" en "Net-(R31-Pad2)".
+
+Changement composant "R32:/595CC9DA/595CD70D" pin "2"  net de "" en "Net-(P7-Pad6)".
+
+Info: Vérification du composant de la netliste "R33:/5960E58C/59B830CC:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R33:/5960E58C/59B830CC" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R33:/5960E58C/59B830CC" pin "1"  net de "" en "Net-(C23-Pad2)".
+
+Changement composant "R33:/5960E58C/59B830CC" pin "2"  net de "" en "Net-(C19-Pad2)".
+
+Info: Vérification du composant de la netliste "R34:/5960E58C/59B830D3:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R34:/5960E58C/59B830D3" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R34:/5960E58C/59B830D3" pin "1"  net de "" en "Net-(C24-Pad2)".
+
+Changement composant "R34:/5960E58C/59B830D3" pin "2"  net de "" en "Net-(C16-Pad1)".
+
+Info: Vérification du composant de la netliste "R35:/5960E58C/5960F161:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R35:/5960E58C/5960F161" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R35:/5960E58C/5960F161" pin "1"  net de "" en "Net-(C26-Pad2)".
+
+Changement composant "R35:/5960E58C/5960F161" pin "2"  net de "" en "Iexc1".
+
+Info: Vérification du composant de la netliste "R36:/5960E58C/5960F1E2:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R36:/5960E58C/5960F1E2" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R36:/5960E58C/5960F1E2" pin "1"  net de "" en "Net-(C27-Pad2)".
+
+Changement composant "R36:/5960E58C/5960F1E2" pin "2"  net de "" en "Iexc2".
+
+Info: Vérification du composant de la netliste "R37:/5960E58C/59615E26:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R37:/5960E58C/59615E26" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R37:/5960E58C/59615E26" pin "1"  net de "" en "Net-(C30-Pad1)".
+
+Changement composant "R37:/5960E58C/59615E26" pin "2"  net de "" en "/ADC/Vref".
+
+Info: Vérification du composant de la netliste "R38:/5960E58C/59615401:Resistors_SMD:R_0805_HandSoldering".
+
+Ajout du nouveau composant "R38:/5960E58C/59615401" empreinte "Resistors_SMD:R_0805_HandSoldering".
+
+Changement composant "R38:/5960E58C/59615401" pin "1"  net de "" en "GND".
+
+Changement composant "R38:/5960E58C/59615401" pin "2"  net de "" en "/ADC/Vref".
+
+Info: Vérification du composant de la netliste "R39:/5960E58C/59615E8B:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R39:/5960E58C/59615E8B" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R39:/5960E58C/59615E8B" pin "1"  net de "" en "Net-(C31-Pad1)".
+
+Changement composant "R39:/5960E58C/59615E8B" pin "2"  net de "" en "GND".
+
+Info: Vérification du composant de la netliste "R40:/5960E58C/59B930AD:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R40:/5960E58C/59B930AD" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R40:/5960E58C/59B930AD" pin "1"  net de "" en "SPI_CLK".
+
+Changement composant "R40:/5960E58C/59B930AD" pin "2"  net de "" en "Net-(R40-Pad2)".
+
+Info: Vérification du composant de la netliste "R41:/5960E58C/59B9318A:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R41:/5960E58C/59B9318A" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R41:/5960E58C/59B9318A" pin "1"  net de "" en "SPI_MOSI".
+
+Changement composant "R41:/5960E58C/59B9318A" pin "2"  net de "" en "Net-(R41-Pad2)".
+
+Info: Vérification du composant de la netliste "R42:/5960E58C/59B9335C:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R42:/5960E58C/59B9335C" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R42:/5960E58C/59B9335C" pin "1"  net de "" en "ADC_/DRdy".
+
+Changement composant "R42:/5960E58C/59B9335C" pin "2"  net de "" en "Net-(R42-Pad2)".
+
+Info: Vérification du composant de la netliste "R43:/5960E58C/59B933EF:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R43:/5960E58C/59B933EF" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R43:/5960E58C/59B933EF" pin "1"  net de "" en "SPI_MISO".
+
+Changement composant "R43:/5960E58C/59B933EF" pin "2"  net de "" en "Net-(R43-Pad2)".
+
+Info: Vérification du composant de la netliste "R44:/5960E58C/59B9348D:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R44:/5960E58C/59B9348D" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R44:/5960E58C/59B9348D" pin "1"  net de "" en "SPI_CS".
+
+Changement composant "R44:/5960E58C/59B9348D" pin "2"  net de "" en "Net-(R44-Pad2)".
+
+Info: Vérification du composant de la netliste "R45:/5960E58C/59B93526:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R45:/5960E58C/59B93526" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R45:/5960E58C/59B93526" pin "1"  net de "" en "ADC_Start".
+
+Changement composant "R45:/5960E58C/59B93526" pin "2"  net de "" en "Net-(R45-Pad2)".
+
+Info: Vérification du composant de la netliste "R46:/5960E58C/59B935C2:Resistors_SMD:R_0603_HandSoldering".
+
+Ajout du nouveau composant "R46:/5960E58C/59B935C2" empreinte "Resistors_SMD:R_0603_HandSoldering".
+
+Changement composant "R46:/5960E58C/59B935C2" pin "1"  net de "" en "ADC_/Reset".
+
+Changement composant "R46:/5960E58C/59B935C2" pin "2"  net de "" en "Net-(R46-Pad2)".
+
+Info: Vérification du composant de la netliste "RV1:/595CC9DA/595CD70E:Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp".
+
+Erreur: Impossible d'ajouter le composant nouveau "RV1:/595CC9DA/595CD70E" car l'empreinte "Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp" est manquante.
+
+Info: Vérification du composant de la netliste "SP1:/595CC9DA/59B9FFA9:Capacitors_ThroughHole:CP_Radial_D16.0mm_P7.50mm".
+
+Ajout du nouveau composant "SP1:/595CC9DA/59B9FFA9" empreinte "Capacitors_ThroughHole:CP_Radial_D16.0mm_P7.50mm".
+
+Changement composant "SP1:/595CC9DA/59B9FFA9" pin "1"  net de "" en "P5V".
+
+Changement composant "SP1:/595CC9DA/59B9FFA9" pin "2"  net de "" en "Net-(Q6-Pad3)".
+
+Info: Vérification du composant de la netliste "U1:/58E1713F:Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm".
+
+Ajout du nouveau composant "U1:/58E1713F" empreinte "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm".
+
+Changement composant "U1:/58E1713F" pin "1"  net de "" en "GND".
+
+Changement composant "U1:/58E1713F" pin "2"  net de "" en "GND".
+
+Changement composant "U1:/58E1713F" pin "3"  net de "" en "GND".
+
+Changement composant "U1:/58E1713F" pin "4"  net de "" en "GND".
+
+Changement composant "U1:/58E1713F" pin "5"  net de "" en "/ID_SC_EEPROM".
+
+Changement composant "U1:/58E1713F" pin "6"  net de "" en "/ID_SD_EEPROM".
+
+Changement composant "U1:/58E1713F" pin "7"  net de "" en "Net-(J1-Pad2)".
+
+Changement composant "U1:/58E1713F" pin "8"  net de "" en "+3V3".
+
+Info: Vérification du composant de la netliste "U2:/595CC9DA/59A7BEB1:TO_SOT_Packages_SMD:SOT-23-6_Handsoldering".
+
+Remplace composant "U2:/58E1713F" empreinte "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm" par "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering".
+
+Info: Change le chemin des empreintes "U2:/58E1713F" en "/595CC9DA/59A7BEB1".
+
+Changement composant "U2:/595CC9DA/59A7BEB1" pin "1"  net de "" en "GND".
+
+Changement composant "U2:/595CC9DA/59A7BEB1" pin "2"  net de "" en "Net-(C4-Pad2)".
+
+Changement composant "U2:/595CC9DA/59A7BEB1" pin "3"  net de "" en "+VDC".
+
+Changement composant "U2:/595CC9DA/59A7BEB1" pin "4"  net de "" en "Net-(C7-Pad2)".
+
+Changement composant "U2:/595CC9DA/59A7BEB1" pin "6"  net de "" en "Net-(C4-Pad1)".
+
+Changement composant "U2:/595CC9DA/59A7BEB1" pin "5"  net de "" en "Net-(R14-Pad2)".
+
+Info: Vérification du composant de la netliste "U3:/595CC9DA/59AF507F:TO_SOT_Packages_SMD:SOT-223-3Lead_TabPin2".
+
+Ajout du nouveau composant "U3:/595CC9DA/59AF507F" empreinte "TO_SOT_Packages_SMD:SOT-223-3Lead_TabPin2".
+
+Changement composant "U3:/595CC9DA/59AF507F" pin "2"  net de "" en "GND".
+
+Changement composant "U3:/595CC9DA/59AF507F" pin "2"  net de "" en "GND".
+
+Changement composant "U3:/595CC9DA/59AF507F" pin "3"  net de "" en "+3V3".
+
+Changement composant "U3:/595CC9DA/59AF507F" pin "1"  net de "" en "P5V".
+
+Info: Vérification du composant de la netliste "U4:/595CC9DA/595CD6FA:TO_SOT_Packages_SMD:TSOT-23-5_HandSoldering".
+
+Ajout du nouveau composant "U4:/595CC9DA/595CD6FA" empreinte "TO_SOT_Packages_SMD:TSOT-23-5_HandSoldering".
+
+Changement composant "U4:/595CC9DA/595CD6FA" pin "1"  net de "" en "Net-(P7-Pad6)".
+
+Changement composant "U4:/595CC9DA/595CD6FA" pin "2"  net de "" en "GND".
+
+Changement composant "U4:/595CC9DA/595CD6FA" pin "3"  net de "" en "Net-(C10-Pad1)".
+
+Changement composant "U4:/595CC9DA/595CD6FA" pin "4"  net de "" en "Net-(RV1-Pad2)".
+
+Changement composant "U4:/595CC9DA/595CD6FA" pin "5"  net de "" en "+VDC".
+
+Info: Vérification du composant de la netliste "U5:/5960E58C/5960E720:Housings_SSOP:TSSOP-28_4.4x9.7mm_Pitch0.65mm".
+
+Ajout du nouveau composant "U5:/5960E58C/5960E720" empreinte "Housings_SSOP:TSSOP-28_4.4x9.7mm_Pitch0.65mm".
+
+Changement composant "U5:/5960E58C/5960E720" pin "1"  net de "" en "+3V3".
+
+Changement composant "U5:/5960E58C/5960E720" pin "2"  net de "" en "GND".
+
+Changement composant "U5:/5960E58C/5960E720" pin "3"  net de "" en "GND".
+
+Changement composant "U5:/5960E58C/5960E720" pin "4"  net de "" en "Net-(R46-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "5"  net de "" en "Net-(C30-Pad1)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "6"  net de "" en "Net-(C31-Pad1)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "7"  net de "" en "Net-(U5-Pad7)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "8"  net de "" en "Net-(U5-Pad8)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "9"  net de "" en "Net-(C33-Pad1)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "10"  net de "" en "GND".
+
+Changement composant "U5:/5960E58C/5960E720" pin "11"  net de "" en "Net-(C26-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "12"  net de "" en "Net-(C27-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "13"  net de "" en "Net-(C21-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "14"  net de "" en "Net-(C17-Pad1)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "15"  net de "" en "Net-(C22-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "16"  net de "" en "Net-(C18-Pad1)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "17"  net de "" en "Net-(C23-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "18"  net de "" en "Net-(C24-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "19"  net de "" en "Iexc2".
+
+Changement composant "U5:/5960E58C/5960E720" pin "20"  net de "" en "Iexc1".
+
+Changement composant "U5:/5960E58C/5960E720" pin "21"  net de "" en "GND".
+
+Changement composant "U5:/5960E58C/5960E720" pin "22"  net de "" en "+3V3".
+
+Changement composant "U5:/5960E58C/5960E720" pin "23"  net de "" en "Net-(R45-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "24"  net de "" en "Net-(R44-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "25"  net de "" en "Net-(R42-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "26"  net de "" en "Net-(R43-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "27"  net de "" en "Net-(R41-Pad2)".
+
+Changement composant "U5:/5960E58C/5960E720" pin "28"  net de "" en "Net-(R40-Pad2)".
+
+Suppression composant inutilisé "J6:/58E13683".
+
+Suppression composant inutilisé "J9:/58E18D32".
+
+Suppression net à pad unique "Net-(J2-Pad10)" sur "J2" pad '10'
+
+Suppression net à pad unique "Net-(J2-Pad17)" sur "J2" pad '17'
+
+Suppression net à pad unique "Net-(J2-Pad26)" sur "J2" pad '26'
+
+Suppression net à pad unique "Net-(J2-Pad31)" sur "J2" pad '31'
+
+Suppression net à pad unique "Net-(J2-Pad35)" sur "J2" pad '35'
+
+Suppression net à pad unique "Net-(J2-Pad36)" sur "J2" pad '36'
+
+Suppression net à pad unique "Net-(J2-Pad38)" sur "J2" pad '38'
+
+Suppression net à pad unique "Net-(J2-Pad40)" sur "J2" pad '40'
+
+Suppression net à pad unique "Net-(J2-Pad7)" sur "J2" pad '7'
+
+Suppression net à pad unique "Net-(J2-Pad8)" sur "J2" pad '8'
+
+Suppression net à pad unique "Net-(R30-Pad2)" sur "R30" pad '2'
+
+Suppression net à pad unique "Net-(R31-Pad1)" sur "R31" pad '1'
+
+Suppression net à pad unique "Net-(RV1-Pad2)" sur "U4" pad '4'
+
+Suppression net à pad unique "Net-(U5-Pad7)" sur "U5" pad '7'
+
+Suppression net à pad unique "Net-(U5-Pad8)" sur "U5" pad '8'
+
+Attention:Zone cuivre (net name '/P5V'): le net n'a pas de pad connecté.

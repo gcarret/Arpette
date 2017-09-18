@@ -413,7 +413,7 @@ U 1 1 595CD70E
 P 9450 5200
 F 0 "RV1" H 9450 5100 50  0000 C CNN
 F 1 "1k" H 9450 5200 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp" H 9450 5200 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_Trimmer_Bourns_3266W" H 9450 5200 50  0001 C CNN
 F 3 "" H 9450 5200 50  0000 C CNN
 	1    9450 5200
 	-1   0    0    1   
@@ -1057,7 +1057,7 @@ L Screw_Terminal_01x02 J5
 U 1 1 59B997A9
 P 2700 5300
 F 0 "J5" H 2700 5400 50  0000 C CNN
-F 1 "Screw_Terminal_01x02" H 2900 5100 50  0000 C CNN
+F 1 "PWM" H 2900 5100 50  0000 C CNN
 F 2 "Connect:bornier2" H 2700 5300 50  0001 C CNN
 F 3 "" H 2700 5300 50  0001 C CNN
 	1    2700 5300
