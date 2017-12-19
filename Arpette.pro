@@ -1,4 +1,4 @@
-update=09/08/2017 20:38:43
+update=19/12/2017 00:35:05
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=project_components/raspberrypi_hat
+LibName32=Arpette
